@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_1"
+        android:icon="@drawable/v_tick_box"
+        android:title="菜单测试1"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+        android:id="@+id/menu_2"
+        android:icon="@drawable/v_fingerprint"
+        android:title="菜单测试2"
+        app:showAsAction="never"/>
+</menu>
