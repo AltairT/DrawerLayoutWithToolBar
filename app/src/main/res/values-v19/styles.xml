@@ -1,0 +1,9 @@
+<resources>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+        <!--API19之后达到沉浸效果-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+
+    </style>
+</resources>
